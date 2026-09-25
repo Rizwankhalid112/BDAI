@@ -1,0 +1,16 @@
+Full-Stack Engineer (Python + React) — Example Startup Labs
+
+Early-stage startup looking for a full-stack engineer who is comfortable on both sides.
+
+You will:
+- Build backend endpoints in Python (FastAPI)
+- Build frontend screens in React and TypeScript
+- Store data in PostgreSQL
+- Deploy with Docker
+
+Requirements:
+- Python and React experience
+- TypeScript, PostgreSQL
+- 4+ years of experience
+
+Nice to have: AWS, Next.js, GraphQL

@@ -1,0 +1,16 @@
+SAP ABAP / Java Consultant — Fictional Manufacturing AG
+
+We need an experienced consultant for our ERP modernisation project.
+
+Responsibilities:
+- Develop and maintain SAP ABAP reports and interfaces
+- Build integration services in Java with Spring Boot
+- Work with business analysts on requirements for finance modules
+
+Requirements:
+- 8+ years of SAP ABAP development
+- Java, Spring Boot
+- SAP S/4HANA experience
+- German language skills
+
+On-site, Example City.

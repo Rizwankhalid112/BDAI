@@ -1,0 +1,9 @@
+# Later phases add docxtpl (export), playwright + beautifulsoup4 (scrapers).
+psycopg[binary]>=3.2,<4      # PostgreSQL driver
+pgvector>=0.3,<1             # lets psycopg read/write the vector type
+pydantic>=2.7,<3             # validates LLM JSON output
+python-dotenv>=1.0,<2        # loads .env into environment variables
+httpx>=0.27,<1               # HTTP client used to talk to the local Ollama API
+pytest>=8,<9                 # tests
+streamlit>=1.40,<2          # web UI
+numpy>=1.26                  # vector maths for matching (also used by pgvector)

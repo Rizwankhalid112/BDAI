@@ -1,0 +1,17 @@
+UI Engineer, Design System — Demo SaaS Inc
+
+Demo SaaS is building a design system shared by all product teams.
+
+What you'll do:
+- Build a React component library in TypeScript
+- Work with designers in Figma to define tokens and components
+- Document components and ensure accessibility
+- Set up automated UI testing
+
+Requirements:
+- React, TypeScript, CSS
+- Experience building shared component libraries
+- Jest or similar testing tools
+- 2+ years of experience
+
+Nice to have: Storybook, Tailwind CSS

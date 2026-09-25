@@ -1,0 +1,14 @@
+{
+  "cases": [
+    {"lead_file": "lead_01_python_backend.txt",       "expected_profile": "sample-person-a"},
+    {"lead_file": "lead_02_django_developer.txt",     "expected_profile": "sample-person-a"},
+    {"lead_file": "lead_03_devops_platform.txt",      "expected_profile": "sample-person-a"},
+    {"lead_file": "lead_04_data_api.txt",             "expected_profile": "sample-person-a"},
+    {"lead_file": "lead_05_react_frontend.txt",       "expected_profile": "sample-person-b"},
+    {"lead_file": "lead_06_nextjs_engineer.txt",      "expected_profile": "sample-person-b"},
+    {"lead_file": "lead_07_ui_component_library.txt", "expected_profile": "sample-person-b"},
+    {"lead_file": "lead_08_javascript_web.txt",       "expected_profile": "sample-person-b"},
+    {"lead_file": "lead_09_fullstack_mixed.txt",      "expected_profile": "needs_review", "note": "Both profiles partly fit; should be a close call."},
+    {"lead_file": "lead_10_java_sap.txt",             "expected_profile": "needs_review", "note": "Neither profile fits; best score should be below threshold."}
+  ]
+}

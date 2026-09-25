@@ -1,0 +1,18 @@
+Django Developer (Mid/Senior) — Fictional Health Systems
+
+Fictional Health Systems is hiring a Django developer to extend our patient scheduling product.
+
+Responsibilities:
+- Build new features in Django and Django REST Framework
+- Write background tasks with Celery
+- Maintain unit and integration tests
+- Work with the product team on requirements
+
+Must have:
+- 4+ years with Python and Django
+- PostgreSQL
+- REST API design
+- Git
+
+Nice to have: Redis, Docker, experience in healthcare software
+Location: Hybrid, Example City

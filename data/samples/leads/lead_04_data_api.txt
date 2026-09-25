@@ -1,0 +1,12 @@
+Backend Engineer, Data Services — Sample Analytics Co
+
+We build data products for retail clients and need a backend engineer to own our data ingestion APIs.
+
+What you'll work on:
+- Python services that ingest and clean CSV and JSON data
+- PostgreSQL data models and performance tuning
+- Scheduled jobs using Celery and Redis
+- Docker-based deployments
+
+Requirements: 3+ years Python, PostgreSQL, Docker. Airflow and Spark are a plus.
+Full-time, on-site in Example City.

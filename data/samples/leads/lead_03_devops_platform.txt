@@ -1,0 +1,18 @@
+Platform / DevOps Engineer — Demo Fintech Ltd
+
+Join our platform team to run and improve our cloud infrastructure.
+
+You will:
+- Manage Kubernetes clusters on AWS (EKS)
+- Write infrastructure as code in Terraform
+- Improve our CI/CD pipelines and deployment speed
+- Support backend teams running Python services
+
+Requirements:
+- 5 years of experience in backend or platform engineering
+- Kubernetes, Terraform, AWS, Docker
+- Linux administration
+- Scripting in Python or Bash
+
+Nice to have: AWS certification, Prometheus, Grafana
+Remote within Europe.

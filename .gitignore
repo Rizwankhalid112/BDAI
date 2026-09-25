@@ -1,0 +1,21 @@
+# Secrets / local config — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Generated files (exported CVs, cover letters)
+outputs/
+
+# Real data must never be committed. Only fake samples live in data/samples/.
+data/real/
+data/private/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

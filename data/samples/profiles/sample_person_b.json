@@ -1,0 +1,37 @@
+{
+  "name": "Sample Person B",
+  "headline": "Frontend Engineer (React / TypeScript)",
+  "total_years_experience": 4,
+  "summary": "Frontend engineer with 4 years of experience building responsive web apps in React and TypeScript. Comfortable across the JavaScript stack, with a strong eye for accessibility and UI performance.",
+  "skills": ["JavaScript", "TypeScript", "React", "Next.js", "Redux", "HTML", "CSS", "Tailwind CSS", "Node.js", "GraphQL", "Jest", "Figma", "Git"],
+  "experience": [
+    {
+      "company": "Example Commerce Inc",
+      "role": "Frontend Engineer",
+      "start": "2022-01",
+      "end": "present",
+      "bullets": [
+        "Rebuilt the checkout flow in React and TypeScript, raising conversion by 12%.",
+        "Migrated the marketing site to Next.js, improving Lighthouse performance score from 58 to 94.",
+        "Created a shared component library with Tailwind CSS used by four product teams.",
+        "Wrote Jest and React Testing Library tests, bringing UI test coverage to 80%."
+      ]
+    },
+    {
+      "company": "Sample Digital Agency",
+      "role": "Junior Web Developer",
+      "start": "2020-07",
+      "end": "2021-12",
+      "bullets": [
+        "Built client websites from Figma designs using HTML, CSS, and JavaScript.",
+        "Added a GraphQL API layer in Node.js for a client's product catalogue.",
+        "Fixed accessibility issues to meet WCAG 2.1 AA on three client sites."
+      ]
+    }
+  ],
+  "education": [
+    {"degree": "BS Software Engineering", "institution": "Sample Institute of Technology", "year": "2020"}
+  ],
+  "certifications": [],
+  "contact": {"email": "person.b@example.com", "phone": "+00 000 0000002", "location": "Example City"}
+}

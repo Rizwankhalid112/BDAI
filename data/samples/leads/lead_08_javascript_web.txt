@@ -1,0 +1,12 @@
+JavaScript Web Developer — Sample Travel Agency
+
+Small travel company looking for a web developer to maintain our booking website.
+
+Tasks:
+- Maintain the booking site (JavaScript, HTML, CSS)
+- Add new pages from Figma mockups
+- Small backend changes in Node.js
+- Fix browser and mobile display issues
+
+Requirements: JavaScript, HTML, CSS, 2 years of experience. React is a plus.
+Part-time possible. Location: Example City.

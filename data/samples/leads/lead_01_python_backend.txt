@@ -1,0 +1,17 @@
+Senior Python Backend Engineer — Example Logistics GmbH (Remote, EU)
+
+We are looking for a Senior Backend Engineer to build the APIs behind our shipment tracking platform.
+
+What you'll do:
+- Design and build REST APIs with FastAPI
+- Own our PostgreSQL schema and query performance
+- Deploy services to AWS using Docker and Terraform
+- Review code and mentor other engineers
+
+Requirements:
+- 5+ years of professional Python experience
+- Strong PostgreSQL skills
+- Experience with AWS and Docker
+- Experience with CI/CD pipelines
+
+Nice to have: Kubernetes, Redis, Celery

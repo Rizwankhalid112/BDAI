@@ -1,0 +1,17 @@
+Frontend Developer (React) — Example Retail Group
+
+We're looking for a Frontend Developer to build our new customer-facing web shop.
+
+Responsibilities:
+- Build user interfaces in React and TypeScript
+- Turn Figma designs into responsive, accessible pages
+- Write tests with Jest and React Testing Library
+- Work closely with designers and backend engineers
+
+Requirements:
+- 3+ years of React experience
+- TypeScript, HTML, CSS
+- Understanding of web accessibility (WCAG)
+
+Nice to have: Next.js, Tailwind CSS, Redux
+Remote.

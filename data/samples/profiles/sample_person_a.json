@@ -1,0 +1,47 @@
+{
+  "name": "Sample Person A",
+  "headline": "Senior Backend Engineer",
+  "total_years_experience": 7,
+  "summary": "Backend engineer with 7 years of experience building Python APIs and data services on AWS. Focused on reliable, well-tested systems, PostgreSQL performance, and container-based deployments.",
+  "skills": ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "REST APIs", "Celery", "Linux", "Git"],
+  "experience": [
+    {
+      "company": "Example Cloud Co",
+      "role": "Senior Backend Engineer",
+      "start": "2021-03",
+      "end": "present",
+      "bullets": [
+        "Designed and built FastAPI microservices handling 2M requests per day on AWS ECS.",
+        "Reduced PostgreSQL query latency by 60% through indexing and query rewrites.",
+        "Migrated services from EC2 to Kubernetes (EKS) using Terraform, cutting deploy time from 40 to 8 minutes.",
+        "Mentored three junior engineers and introduced code review guidelines."
+      ]
+    },
+    {
+      "company": "Fictional Payments Ltd",
+      "role": "Backend Engineer",
+      "start": "2018-06",
+      "end": "2021-02",
+      "bullets": [
+        "Built Django REST APIs for a payments dashboard used by 300 merchant accounts.",
+        "Implemented background jobs with Celery and Redis for nightly settlement reports.",
+        "Set up GitLab CI pipelines with automated tests and Docker image builds."
+      ]
+    },
+    {
+      "company": "Demo Software House",
+      "role": "Junior Python Developer",
+      "start": "2017-01",
+      "end": "2018-05",
+      "bullets": [
+        "Wrote Python scripts to automate data imports from CSV into PostgreSQL.",
+        "Fixed bugs and added unit tests to an internal Django application."
+      ]
+    }
+  ],
+  "education": [
+    {"degree": "BS Computer Science", "institution": "Example University", "year": "2016"}
+  ],
+  "certifications": ["AWS Certified Solutions Architect – Associate"],
+  "contact": {"email": "person.a@example.com", "phone": "+00 000 0000001", "location": "Example City"}
+}

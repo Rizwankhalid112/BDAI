@@ -1,0 +1,12 @@
+Next.js Engineer — Fictional Media House
+
+Fictional Media House publishes online magazines read by millions every month. We need a Next.js engineer to make our sites faster.
+
+You will:
+- Build and maintain our Next.js sites
+- Improve Core Web Vitals and Lighthouse scores
+- Build reusable UI components with Tailwind CSS
+- Consume GraphQL APIs
+
+Must have: Next.js, React, TypeScript, performance optimisation experience, 3 years of frontend experience.
+Nice to have: Node.js, Storybook, Vercel.
